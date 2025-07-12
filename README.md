@@ -9,12 +9,13 @@ The **primary version supported is 1.20.1** as it is still the most used as far 
 I got real sick of trying to install a bunch of different resource packs for mod support, some of which overlapping, and making it harder to setup modpacks and blah blah. Some of which are exclusive to either [Modrinth](https://modrinth.com/) OR [Curseforge](https://www.curseforge.com/), and not on both. Or some updated on one but not the other. So here we are.
 
 ## ✅ Current mod support
-- Imnis (GUI only, needs backpacks)
+- Inmis (GUI only, needs backpacks)
 - Scout (GUI only, needs bags)
 - Numismatic Overhaul (GUI only, needs coins)
+- Accessories + varying slots (95% complete)
 
 ## ⚙️ In-progress Support
-- Accessories + varying slots
+- Dunno yet
 
 ## 🎨 How do I contribute?
 I haven't worked that out yet. But I'm thinking there will be 2 ways to do this.
