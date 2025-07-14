@@ -13,6 +13,7 @@ I got real sick of trying to install a bunch of different resource packs for mod
 - Scout (GUI only, needs bags)
 - Numismatic Overhaul (GUI only, needs coins)
 - Accessories + varying slots (95% complete)
+- Hardcore Torches
 
 ## ⚙️ In-progress Support
 - Dunno yet
